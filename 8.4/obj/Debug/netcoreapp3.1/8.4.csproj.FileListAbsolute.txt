@@ -1,0 +1,13 @@
+C:\Users\Администратор\Desktop\Проекты\8.4\bin\Debug\netcoreapp3.1\8.4.exe
+C:\Users\Администратор\Desktop\Проекты\8.4\bin\Debug\netcoreapp3.1\8.4.deps.json
+C:\Users\Администратор\Desktop\Проекты\8.4\bin\Debug\netcoreapp3.1\8.4.runtimeconfig.json
+C:\Users\Администратор\Desktop\Проекты\8.4\bin\Debug\netcoreapp3.1\8.4.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Проекты\8.4\bin\Debug\netcoreapp3.1\8.4.dll
+C:\Users\Администратор\Desktop\Проекты\8.4\bin\Debug\netcoreapp3.1\8.4.pdb
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.dll
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.pdb
+C:\Users\Администратор\Desktop\Проекты\8.4\obj\Debug\netcoreapp3.1\8.4.genruntimeconfig.cache
